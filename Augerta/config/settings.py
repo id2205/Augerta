@@ -1,6 +1,6 @@
 # 存储全局配置信息，如数据库连接信息、第三方接口的密钥等
 DATABASE_URI = 'sqlite:///D:/Project/stock_data.db'
-TUSHARE_TOKEN = 'gx03013e909f633ecb66722df66b360f070426613316ebf06ecd3482'
+TUSHARE_TOKEN = ''
 
 
 class Config:
