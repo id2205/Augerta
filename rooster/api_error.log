@@ -1,0 +1,1 @@
+Error fetching stock symbols: [Errno 13] Permission denied: 'rooster/raw_stock_data.csv'

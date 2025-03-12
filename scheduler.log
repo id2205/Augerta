@@ -1,0 +1,894 @@
+2025-01-07 14:21:11,365 - INFO - ========== 系统信息 ==========
+2025-01-07 14:21:11,366 - INFO - 当前工作目录：D:\Project
+2025-01-07 14:21:11,366 - INFO - Python路径：C:\Programs\Python\Python312\python.exe
+2025-01-07 14:21:11,366 - INFO - Python版本：3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]
+2025-01-07 14:21:11,367 - INFO - 环境变量PATH：C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Programs\Python\Python312\Scripts\;C:\Programs\Python\Python312\;D:\Python\Python313\Scripts\;D:\Python\Python313\;C:\Users\id220\AppData\Local\Programs\Python\Launcher\;C:\Users\id220\AppData\Local\Microsoft\WindowsApps;C:\Programs\Microsoft VS Code\bin
+2025-01-07 14:21:11,367 - INFO - gm模块安装路径：C:\Programs\Python\Python312\Lib
+2025-01-07 14:21:11,368 - INFO - 当前用户：id220
+2025-01-07 14:21:11,369 - INFO - 文件权限：666
+2025-01-07 14:21:11,369 - INFO - =============================
+2025-01-07 14:21:11,558 - INFO - gm.api模块导入成功
+2025-01-07 14:21:11,559 - INFO - token设置成功
+2025-01-07 14:21:55,978 - INFO - ========== 系统信息 ==========
+2025-01-07 14:21:55,978 - INFO - 当前工作目录：D:\Project
+2025-01-07 14:21:55,978 - INFO - Python路径：C:\Programs\Python\Python312\python.exe
+2025-01-07 14:21:55,978 - INFO - Python版本：3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]
+2025-01-07 14:21:55,978 - INFO - 环境变量PATH：C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Programs\Python\Python312\Scripts\;C:\Programs\Python\Python312\;D:\Python\Python313\Scripts\;D:\Python\Python313\;C:\Users\id220\AppData\Local\Programs\Python\Launcher\;C:\Users\id220\AppData\Local\Microsoft\WindowsApps;C:\Programs\Microsoft VS Code\bin
+2025-01-07 14:21:55,978 - INFO - gm模块安装路径：C:\Programs\Python\Python312\Lib
+2025-01-07 14:21:55,979 - INFO - 当前用户：id220
+2025-01-07 14:21:55,979 - INFO - 文件权限：666
+2025-01-07 14:21:55,979 - INFO - =============================
+2025-01-07 14:21:56,139 - INFO - gm.api模块导入成功
+2025-01-07 14:21:56,139 - INFO - token设置成功
+2025-01-07 14:36:31,683 - INFO - ========== 系统信息 ==========
+2025-01-07 14:36:31,683 - INFO - 当前工作目录：D:\Project
+2025-01-07 14:36:31,683 - INFO - Python路径：C:\Programs\Python\Python312\python.exe
+2025-01-07 14:36:31,683 - INFO - Python版本：3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]
+2025-01-07 14:36:31,683 - INFO - 环境变量PATH：C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Programs\Python\Python312\Scripts\;C:\Programs\Python\Python312\;D:\Python\Python313\Scripts\;D:\Python\Python313\;C:\Users\id220\AppData\Local\Programs\Python\Launcher\;C:\Users\id220\AppData\Local\Microsoft\WindowsApps;C:\Programs\Microsoft VS Code\bin
+2025-01-07 14:36:31,684 - INFO - gm模块安装路径：C:\Programs\Python\Python312\Lib
+2025-01-07 14:36:31,685 - INFO - 当前用户：id220
+2025-01-07 14:36:31,685 - INFO - 文件权限：666
+2025-01-07 14:36:31,685 - INFO - =============================
+2025-01-07 14:36:31,842 - INFO - gm.api模块导入成功
+2025-01-07 14:36:31,843 - INFO - token设置成功
+2025-01-07 14:36:31,843 - INFO - 立即执行任务...
+2025-01-07 14:36:31,843 - INFO - 开始获取涨停股票数据...
+2025-01-07 14:36:31,843 - INFO - gm.api模块导入成功
+2025-01-07 14:36:31,843 - INFO - token设置成功
+2025-01-07 14:36:31,843 - INFO - 测试API连接...
+2025-01-07 14:36:31,843 - INFO - 开始测试API连接...
+2025-01-07 14:36:32,467 - INFO - API连接测试成功
+2025-01-07 14:36:32,468 - INFO - API连接正常，开始获取数据...
+2025-01-07 14:36:32,468 - INFO - 开始测试API连接...
+2025-01-07 14:36:32,472 - INFO - API连接测试成功
+2025-01-07 14:36:32,472 - INFO - 开始获取股票基本信息...
+2025-01-07 14:36:32,864 - INFO - 成功获取200只股票基本信息
+2025-01-07 14:36:32,864 - INFO - 当前日期：2025-01-07
+2025-01-07 14:36:32,864 - INFO - 开始获取个股行情数据...
+2025-01-07 14:36:32,981 - ERROR - 获取SHSE.603229数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,019 - ERROR - 获取SHSE.603829数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,322 - ERROR - 获取SHSE.601222数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,360 - ERROR - 获取SHSE.603013数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,397 - ERROR - 获取SHSE.600770数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,433 - ERROR - 获取SHSE.601788数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,522 - ERROR - 获取SHSE.600332数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,557 - ERROR - 获取SHSE.900906数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,593 - ERROR - 获取SHSE.600817数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,628 - ERROR - 获取SHSE.603863数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,664 - ERROR - 获取SHSE.600869数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,701 - ERROR - 获取SHSE.601068数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,737 - ERROR - 获取SHSE.600301数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,772 - ERROR - 获取SHSE.688711数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,807 - ERROR - 获取SHSE.600966数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,843 - ERROR - 获取SHSE.603261数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,878 - ERROR - 获取SHSE.688379数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,915 - ERROR - 获取SHSE.600119数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,951 - ERROR - 获取SHSE.603638数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:33,986 - ERROR - 获取SHSE.600893数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:34,318 - ERROR - 获取SHSE.603997数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:34,386 - ERROR - 获取SHSE.601811数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:34,422 - ERROR - 获取SHSE.603787数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:34,592 - ERROR - 获取SHSE.603259数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:34,660 - ERROR - 获取SHSE.603439数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:34,760 - ERROR - 获取SHSE.600030数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:34,827 - ERROR - 获取SHSE.688662数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:34,899 - ERROR - 获取SHSE.600176数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:34,935 - ERROR - 获取SHSE.688549数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:34,977 - ERROR - 获取SHSE.600847数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,013 - ERROR - 获取SHSE.600435数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,196 - ERROR - 获取SHSE.603090数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,232 - ERROR - 获取SHSE.688766数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,267 - ERROR - 获取SHSE.688602数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,303 - ERROR - 获取SHSE.688099数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,340 - ERROR - 获取SHSE.603103数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,377 - ERROR - 获取SHSE.600284数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,415 - ERROR - 获取SHSE.605507数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,451 - ERROR - 获取SHSE.603365数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,488 - ERROR - 获取SHSE.600285数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,526 - ERROR - 获取SHSE.603177数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,562 - ERROR - 获取SHSE.601020数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,866 - ERROR - 获取SHSE.688478数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,902 - ERROR - 获取SHSE.600727数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:35,970 - ERROR - 获取SHSE.688297数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:36,062 - ERROR - 获取SHSE.601698数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:36,129 - ERROR - 获取SHSE.601139数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:36,197 - ERROR - 获取SHSE.603132数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:36,232 - ERROR - 获取SHSE.600063数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:36,299 - ERROR - 获取SHSE.603815数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:36,334 - ERROR - 获取SHSE.688579数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:36,370 - ERROR - 获取SHSE.600425数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:36,405 - ERROR - 获取SHSE.688055数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:36,441 - ERROR - 获取SHSE.603609数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:36,748 - ERROR - 获取SHSE.603282数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:36,786 - ERROR - 获取SHSE.600300数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:36,822 - ERROR - 获取SHSE.600235数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:37,127 - ERROR - 获取SHSE.603587数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:37,164 - ERROR - 获取SHSE.603528数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:37,530 - ERROR - 获取SHSE.600131数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,074 - ERROR - 获取SHSE.601298数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,191 - ERROR - 获取SHSE.603108数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,262 - ERROR - 获取SHSE.605277数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,332 - ERROR - 获取SHSE.603690数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,369 - ERROR - 获取SHSE.601388数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,404 - ERROR - 获取SHSE.603055数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,440 - ERROR - 获取SHSE.603228数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,476 - ERROR - 获取SHSE.603338数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,572 - ERROR - 获取SHSE.688700数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,608 - ERROR - 获取SHSE.601009数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,645 - ERROR - 获取SHSE.601138数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,682 - ERROR - 获取SHSE.688510数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,718 - ERROR - 获取SHSE.688027数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:38,753 - ERROR - 获取SHSE.601008数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,060 - ERROR - 获取SHSE.603776数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,096 - ERROR - 获取SHSE.688266数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,131 - ERROR - 获取SHSE.603678数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,167 - ERROR - 获取SHSE.603190数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,203 - ERROR - 获取SHSE.600391数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,240 - ERROR - 获取SHSE.605300数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,278 - ERROR - 获取SHSE.688255数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,313 - ERROR - 获取SHSE.688248数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,348 - ERROR - 获取SHSE.688420数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,384 - ERROR - 获取SHSE.603194数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,420 - ERROR - 获取SHSE.603729数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,456 - ERROR - 获取SHSE.688257数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,492 - ERROR - 获取SHSE.688426数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,528 - ERROR - 获取SHSE.688313数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,565 - ERROR - 获取SHSE.688291数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,602 - ERROR - 获取SHSE.605369数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,637 - ERROR - 获取SHSE.600011数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,726 - ERROR - 获取SHSE.600293数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:39,761 - ERROR - 获取SHSE.600066数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:40,566 - ERROR - 获取SHSE.688536数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:40,632 - ERROR - 获取SHSE.600992数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:40,699 - ERROR - 获取SHSE.688777数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:40,734 - ERROR - 获取SHSE.688251数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:40,770 - ERROR - 获取SHSE.603136数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,078 - ERROR - 获取SHSE.600152数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,115 - ERROR - 获取SHSE.603636数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,179 - ERROR - 获取SHSE.603838数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,215 - ERROR - 获取SHSE.601101数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,251 - ERROR - 获取SHSE.603041数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,286 - ERROR - 获取SHSE.688657数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,322 - ERROR - 获取SHSE.601216数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,467 - ERROR - 获取SHSE.900929数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,535 - ERROR - 获取SHSE.603866数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,571 - ERROR - 获取SHSE.688512数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,606 - ERROR - 获取SHSE.688651数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,723 - ERROR - 获取SHSE.603221数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,789 - ERROR - 获取SHSE.603779数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,854 - ERROR - 获取SHSE.688531数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,919 - ERROR - 获取SHSE.600449数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,955 - ERROR - 获取SHSE.600386数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:41,991 - ERROR - 获取SHSE.600673数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:42,026 - ERROR - 获取SHSE.688366数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:42,064 - ERROR - 获取SHSE.688403数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:42,099 - ERROR - 获取SHSE.603703数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:42,278 - ERROR - 获取SHSE.688225数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:42,314 - ERROR - 获取SHSE.600212数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:42,350 - ERROR - 获取SHSE.688401数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:42,386 - ERROR - 获取SHSE.603983数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:42,421 - ERROR - 获取SHSE.600803数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:42,598 - ERROR - 获取SHSE.600706数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:42,666 - ERROR - 获取SHSE.600674数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:42,734 - ERROR - 获取SHSE.603655数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:42,770 - ERROR - 获取SHSE.600250数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:43,314 - ERROR - 获取SHSE.605188数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:43,382 - ERROR - 获取SHSE.601801数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:43,686 - ERROR - 获取SHSE.688625数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:43,722 - ERROR - 获取SHSE.600853数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:43,788 - ERROR - 获取SHSE.603661数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:44,127 - ERROR - 获取SHSE.688418数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:44,193 - ERROR - 获取SHSE.688618数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:44,263 - ERROR - 获取SHSE.688390数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:44,305 - ERROR - 获取SHSE.688660数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:44,343 - ERROR - 获取SHSE.601086数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:44,384 - ERROR - 获取SHSE.688101数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:44,419 - ERROR - 获取SHSE.900901数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:44,455 - ERROR - 获取SHSE.688081数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:45,274 - ERROR - 获取SHSE.600692数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:45,341 - ERROR - 获取SHSE.603379数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:45,377 - ERROR - 获取SHSE.600446数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:45,412 - ERROR - 获取SHSE.600754数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:45,449 - ERROR - 获取SHSE.601633数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:45,484 - ERROR - 获取SHSE.600751数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:46,326 - ERROR - 获取SHSE.600929数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:46,682 - ERROR - 获取SHSE.600985数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:46,859 - ERROR - 获取SHSE.688691数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:46,926 - ERROR - 获取SHSE.603035数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:47,031 - ERROR - 获取SHSE.688395数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:47,066 - ERROR - 获取SHSE.600480数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:47,101 - ERROR - 获取SHSE.688603数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:47,137 - ERROR - 获取SHSE.603391数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:47,266 - ERROR - 获取SHSE.600276数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:47,335 - ERROR - 获取SHSE.688220数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:47,482 - ERROR - 获取SHSE.603232数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:49,463 - ERROR - 获取SHSE.600848数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:49,770 - ERROR - 获取SHSE.600490数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:49,837 - ERROR - 获取SHSE.603707数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,143 - ERROR - 获取SHSE.688015数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,180 - ERROR - 获取SHSE.600383数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,248 - ERROR - 获取SHSE.600635数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,555 - ERROR - 获取SHSE.688399数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,590 - ERROR - 获取SHSE.601099数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,657 - ERROR - 获取SHSE.900927数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,693 - ERROR - 获取SHSE.603321数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,728 - ERROR - 获取SHSE.688328数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,764 - ERROR - 获取SHSE.600528数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,800 - ERROR - 获取SHSE.600345数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,835 - ERROR - 获取SHSE.601888数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,871 - ERROR - 获取SHSE.900910数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,906 - ERROR - 获取SHSE.688226数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,942 - ERROR - 获取SHSE.605378数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:50,977 - ERROR - 获取SHSE.605128数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,013 - ERROR - 获取SHSE.603236数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,049 - ERROR - 获取SHSE.605336数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,354 - ERROR - 获取SHSE.603727数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,390 - ERROR - 获取SHSE.603222数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,425 - ERROR - 获取SHSE.601997数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,461 - ERROR - 获取SHSE.603699数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,500 - ERROR - 获取SHSE.603209数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,535 - ERROR - 获取SHSE.688082数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,571 - ERROR - 获取SHSE.600237数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,607 - ERROR - 获取SHSE.603693数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,642 - ERROR - 获取SHSE.600724数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,677 - ERROR - 获取SHSE.600054数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,714 - ERROR - 获取SHSE.601163数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:51,749 - ERROR - 获取SHSE.688718数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:52,082 - ERROR - 获取SHSE.603908数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:52,151 - ERROR - 获取SHSE.688513数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:52,186 - ERROR - 获取SHSE.600227数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:52,222 - ERROR - 获取SHSE.600170数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:52,261 - ERROR - 获取SHSE.603186数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:52,386 - ERROR - 获取SHSE.603456数据失败：Index must be DatetimeIndex
+2025-01-07 14:36:52,386 - INFO - 成功获取0只股票的行情数据
+2025-01-07 14:36:52,387 - WARNING - 获取数据失败或没有涨停股票
+2025-01-07 14:43:10,508 - INFO - ========== 系统信息 ==========
+2025-01-07 14:43:10,508 - INFO - 当前工作目录：D:\Project
+2025-01-07 14:43:10,509 - INFO - Python路径：C:\Programs\Python\Python312\python.exe
+2025-01-07 14:43:10,509 - INFO - Python版本：3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]
+2025-01-07 14:43:10,509 - INFO - 环境变量PATH：C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Programs\Python\Python312\Scripts\;C:\Programs\Python\Python312\;D:\Python\Python313\Scripts\;D:\Python\Python313\;C:\Users\id220\AppData\Local\Programs\Python\Launcher\;C:\Users\id220\AppData\Local\Microsoft\WindowsApps;C:\Programs\Microsoft VS Code\bin
+2025-01-07 14:43:10,509 - INFO - gm模块安装路径：C:\Programs\Python\Python312\Lib
+2025-01-07 14:43:10,510 - INFO - 当前用户：id220
+2025-01-07 14:43:10,510 - INFO - 文件权限：666
+2025-01-07 14:43:10,510 - INFO - =============================
+2025-01-07 14:43:10,653 - INFO - gm.api模块导入成功
+2025-01-07 14:43:10,653 - INFO - token设置成功
+2025-01-07 14:43:10,653 - INFO - 立即执行任务...
+2025-01-07 14:43:10,653 - INFO - 开始获取涨停股票数据...
+2025-01-07 14:43:10,653 - INFO - gm.api模块导入成功
+2025-01-07 14:43:10,653 - INFO - token设置成功
+2025-01-07 14:43:10,653 - INFO - 测试API连接...
+2025-01-07 14:43:10,653 - INFO - 开始测试API连接...
+2025-01-07 14:43:11,090 - INFO - API连接测试成功
+2025-01-07 14:43:11,091 - INFO - API连接正常，开始获取数据...
+2025-01-07 14:43:11,091 - INFO - 开始测试API连接...
+2025-01-07 14:43:11,094 - INFO - API连接测试成功
+2025-01-07 14:43:11,094 - INFO - 开始获取股票基本信息...
+2025-01-07 14:43:11,448 - INFO - 成功获取200只股票基本信息
+2025-01-07 14:43:11,448 - INFO - 当前日期：2025-01-07
+2025-01-07 14:43:11,448 - INFO - 开始获取个股行情数据...
+2025-01-07 14:43:11,516 - INFO - 发现涨停股票：SHSE.601689 47.96 >= 0.0
+2025-01-07 14:43:11,553 - INFO - 发现涨停股票：SHSE.605155 9.79 >= 0.0
+2025-01-07 14:43:12,015 - INFO - 发现涨停股票：SHSE.600075 4.21 >= 0.0
+2025-01-07 14:43:12,085 - INFO - 发现涨停股票：SHSE.600395 5.02 >= 0.0
+2025-01-07 14:43:12,212 - INFO - 发现涨停股票：SHSE.600721 6.72 >= 0.0
+2025-01-07 14:43:12,284 - INFO - 发现涨停股票：SHSE.603663 16.66 >= 0.0
+2025-01-07 14:43:12,384 - INFO - 发现涨停股票：SHSE.603170 14.57 >= 0.0
+2025-01-07 14:43:12,452 - INFO - 发现涨停股票：SHSE.603318 6.42 >= 0.0
+2025-01-07 14:43:12,520 - INFO - 发现涨停股票：SHSE.600215 6.61 >= 0.0
+2025-01-07 14:43:12,558 - INFO - 发现涨停股票：SHSE.603375 35.47 >= 0.0
+2025-01-07 14:43:12,594 - INFO - 发现涨停股票：SHSE.605055 4.73 >= 0.0
+2025-01-07 14:43:12,631 - INFO - 发现涨停股票：SHSE.600925 5.15 >= 0.0
+2025-01-07 14:43:12,671 - INFO - 发现涨停股票：SHSE.600475 9.16 >= 0.0
+2025-01-07 14:43:12,708 - INFO - 发现涨停股票：SHSE.603611 17.17 >= 0.0
+2025-01-07 14:43:12,744 - INFO - 发现涨停股票：SHSE.603070 13.57 >= 0.0
+2025-01-07 14:43:12,781 - INFO - 发现涨停股票：SHSE.688277 9.26 >= 0.0
+2025-01-07 14:43:12,817 - INFO - 发现涨停股票：SHSE.605577 13.34 >= 0.0
+2025-01-07 14:43:12,854 - INFO - 发现涨停股票：SHSE.603225 11.88 >= 0.0
+2025-01-07 14:43:12,890 - INFO - 发现涨停股票：SHSE.688008 64.39 >= 0.0
+2025-01-07 14:43:12,929 - INFO - 发现涨停股票：SHSE.605186 18.38 >= 0.0
+2025-01-07 14:43:12,965 - INFO - 发现涨停股票：SHSE.603721 23.32 >= 0.0
+2025-01-07 14:43:13,301 - INFO - 发现涨停股票：SHSE.603607 15.83 >= 0.0
+2025-01-07 14:43:13,370 - INFO - 发现涨停股票：SHSE.600123 8.2 >= 0.0
+2025-01-07 14:43:13,629 - INFO - 发现涨停股票：SHSE.600862 23.48 >= 0.0
+2025-01-07 14:43:13,696 - INFO - 发现涨停股票：SHSE.603927 20.24 >= 0.0
+2025-01-07 14:43:13,734 - INFO - 发现涨停股票：SHSE.600708 3.33 >= 0.0
+2025-01-07 14:43:13,834 - INFO - 发现涨停股票：SHSE.601019 11.16 >= 0.0
+2025-01-07 14:43:13,902 - INFO - 发现涨停股票：SHSE.600458 12.25 >= 0.0
+2025-01-07 14:43:13,940 - INFO - 发现涨停股票：SHSE.601949 6.72 >= 0.0
+2025-01-07 14:43:13,977 - INFO - 发现涨停股票：SHSE.600195 6.41 >= 0.0
+2025-01-07 14:43:14,014 - INFO - 发现涨停股票：SHSE.603933 14.59 >= 0.0
+2025-01-07 14:43:14,170 - INFO - 发现涨停股票：SHSE.600734 3.51 >= 0.0
+2025-01-07 14:43:14,240 - INFO - 发现涨停股票：SHSE.688077 20.55 >= 0.0
+2025-01-07 14:43:14,277 - INFO - 发现涨停股票：SHSE.600665 2.95 >= 0.0
+2025-01-07 14:43:14,345 - INFO - 发现涨停股票：SHSE.600259 29.62 >= 0.0
+2025-01-07 14:43:14,516 - INFO - 发现涨停股票：SHSE.603517 14.81 >= 0.0
+2025-01-07 14:43:14,586 - INFO - 发现涨停股票：SHSE.600997 6.43 >= 0.0
+2025-01-07 14:43:14,656 - INFO - 发现涨停股票：SHSE.603179 47.37 >= 0.0
+2025-01-07 14:43:14,694 - INFO - 发现涨停股票：SHSE.605056 11.71 >= 0.0
+2025-01-07 14:43:14,730 - INFO - 发现涨停股票：SHSE.603238 12.42 >= 0.0
+2025-01-07 14:43:14,914 - INFO - 发现涨停股票：SHSE.605499 257.96 >= 0.0
+2025-01-07 14:43:14,982 - INFO - 发现涨停股票：SHSE.605098 36.72 >= 0.0
+2025-01-07 14:43:15,049 - INFO - 发现涨停股票：SHSE.605376 27.12 >= 0.0
+2025-01-07 14:43:16,829 - INFO - 发现涨停股票：SHSE.688789 64.1 >= 0.0
+2025-01-07 14:43:16,900 - INFO - 发现涨停股票：SHSE.603052 33.7 >= 0.0
+2025-01-07 14:43:17,269 - INFO - 发现涨停股票：SHSE.603197 35.35 >= 0.0
+2025-01-07 14:43:17,337 - INFO - 发现涨停股票：SHSE.605337 10.53 >= 0.0
+2025-01-07 14:43:17,404 - INFO - 发现涨停股票：SHSE.603917 11.05 >= 0.0
+2025-01-07 14:43:17,443 - INFO - 发现涨停股票：SHSE.688212 40.09 >= 0.0
+2025-01-07 14:43:17,481 - INFO - 发现涨停股票：SHSE.601985 9.94 >= 0.0
+2025-01-07 14:43:17,518 - INFO - 发现涨停股票：SHSE.600535 14.13 >= 0.0
+2025-01-07 14:43:17,554 - INFO - 发现涨停股票：SHSE.600731 5.61 >= 0.0
+2025-01-07 14:43:17,597 - INFO - 发现涨停股票：SHSE.603277 23.65 >= 0.0
+2025-01-07 14:43:17,634 - INFO - 发现涨停股票：SHSE.600255 3.82 >= 0.0
+2025-01-07 14:43:18,184 - INFO - 发现涨停股票：SHSE.603949 11.3 >= 0.0
+2025-01-07 14:43:18,260 - INFO - 发现涨停股票：SHSE.603726 14.82 >= 0.0
+2025-01-07 14:43:18,333 - INFO - 发现涨停股票：SHSE.600037 6.83 >= 0.0
+2025-01-07 14:43:18,371 - INFO - 发现涨停股票：SHSE.600029 6.19 >= 0.0
+2025-01-07 14:43:18,410 - INFO - 发现涨停股票：SHSE.605255 12.04 >= 0.0
+2025-01-07 14:43:18,447 - INFO - 发现涨停股票：SHSE.600338 10.19 >= 0.0
+2025-01-07 14:43:18,483 - INFO - 发现涨停股票：SHSE.603709 10.14 >= 0.0
+2025-01-07 14:43:18,793 - INFO - 发现涨停股票：SHSE.688093 18.48 >= 0.0
+2025-01-07 14:43:18,831 - INFO - 发现涨停股票：SHSE.688113 26.52 >= 0.0
+2025-01-07 14:43:18,901 - INFO - 发现涨停股票：SHSE.603970 13.48 >= 0.0
+2025-01-07 14:43:18,969 - INFO - 发现涨停股票：SHSE.603118 9.25 >= 0.0
+2025-01-07 14:43:19,036 - INFO - 发现涨停股票：SHSE.688392 37.5 >= 0.0
+2025-01-07 14:43:19,137 - INFO - 发现涨停股票：SHSE.688213 73.39 >= 0.0
+2025-01-07 14:43:19,207 - INFO - 发现涨停股票：SHSE.603308 15.13 >= 0.0
+2025-01-07 14:43:19,284 - INFO - 发现涨停股票：SHSE.688600 12.86 >= 0.0
+2025-01-07 14:43:19,321 - INFO - 发现涨停股票：SHSE.603281 23.97 >= 0.0
+2025-01-07 14:43:19,358 - INFO - 发现涨停股票：SHSE.688084 51.17 >= 0.0
+2025-01-07 14:43:19,453 - INFO - 发现涨停股票：SHSE.688508 39.55 >= 0.0
+2025-01-07 14:43:19,525 - INFO - 发现涨停股票：SHSE.600736 5.31 >= 0.0
+2025-01-07 14:43:19,832 - INFO - 发现涨停股票：SHSE.600322 2.45 >= 0.0
+2025-01-07 14:43:20,306 - INFO - 发现涨停股票：SHSE.600007 23.82 >= 0.0
+2025-01-07 14:43:20,375 - INFO - 发现涨停股票：SHSE.688786 24.18 >= 0.0
+2025-01-07 14:43:20,413 - INFO - 发现涨停股票：SHSE.688089 18.16 >= 0.0
+2025-01-07 14:43:20,449 - INFO - 发现涨停股票：SHSE.600361 3.75 >= 0.0
+2025-01-07 14:43:20,488 - INFO - 发现涨停股票：SHSE.603596 42.97 >= 0.0
+2025-01-07 14:43:20,527 - INFO - 发现涨停股票：SHSE.603516 48.68 >= 0.0
+2025-01-07 14:43:20,567 - INFO - 发现涨停股票：SHSE.600055 14.39 >= 0.0
+2025-01-07 14:43:20,604 - INFO - 发现涨停股票：SHSE.603182 11.06 >= 0.0
+2025-01-07 14:43:20,642 - INFO - 发现涨停股票：SHSE.600838 8.24 >= 0.0
+2025-01-07 14:43:20,683 - INFO - 发现涨停股票：SHSE.603739 11.68 >= 0.0
+2025-01-07 14:43:20,720 - INFO - 发现涨停股票：SHSE.600429 4.1 >= 0.0
+2025-01-07 14:43:20,758 - INFO - 发现涨停股票：SHSE.688573 14.66 >= 0.0
+2025-01-07 14:43:20,796 - INFO - 发现涨停股票：SHSE.688050 97.05 >= 0.0
+2025-01-07 14:43:20,833 - INFO - 发现涨停股票：SHSE.603061 72.81 >= 0.0
+2025-01-07 14:43:20,870 - INFO - 发现涨停股票：SHSE.603166 6.97 >= 0.0
+2025-01-07 14:43:20,908 - INFO - 发现涨停股票：SHSE.603680 7.91 >= 0.0
+2025-01-07 14:43:20,947 - INFO - 发现涨停股票：SHSE.688221 9.09 >= 0.0
+2025-01-07 14:43:20,985 - INFO - 发现涨停股票：SHSE.600725 3.05 >= 0.0
+2025-01-07 14:43:21,022 - INFO - 发现涨停股票：SHSE.601616 3.83 >= 0.0
+2025-01-07 14:43:21,060 - INFO - 发现涨停股票：SHSE.603737 40.09 >= 0.0
+2025-01-07 14:43:21,102 - INFO - 发现涨停股票：SHSE.600340 2.44 >= 0.0
+2025-01-07 14:43:21,140 - INFO - 发现涨停股票：SHSE.688189 6.46 >= 0.0
+2025-01-07 14:43:21,606 - INFO - 发现涨停股票：SHSE.600036 38.89 >= 0.0
+2025-01-07 14:43:21,644 - INFO - 发现涨停股票：SHSE.603053 9.4 >= 0.0
+2025-01-07 14:43:21,680 - INFO - 发现涨停股票：SHSE.688485 8.26 >= 0.0
+2025-01-07 14:43:21,780 - INFO - 发现涨停股票：SHSE.688006 16.95 >= 0.0
+2025-01-07 14:43:21,851 - INFO - 发现涨停股票：SHSE.600886 15.39 >= 0.0
+2025-01-07 14:43:22,157 - INFO - 发现涨停股票：SHSE.600968 4.19 >= 0.0
+2025-01-07 14:43:22,194 - INFO - 发现涨停股票：SHSE.688216 19.49 >= 0.0
+2025-01-07 14:43:22,262 - INFO - 发现涨停股票：SHSE.603855 19.47 >= 0.0
+2025-01-07 14:43:22,299 - INFO - 发现涨停股票：SHSE.688063 38.29 >= 0.0
+2025-01-07 14:43:22,336 - INFO - 发现涨停股票：SHSE.688578 58.66 >= 0.0
+2025-01-07 14:43:22,373 - INFO - 发现涨停股票：SHSE.603289 7.95 >= 0.0
+2025-01-07 14:43:22,410 - INFO - 发现涨停股票：SHSE.688551 27.66 >= 0.0
+2025-01-07 14:43:22,452 - INFO - 发现涨停股票：SHSE.600189 6.98 >= 0.0
+2025-01-07 14:43:22,491 - INFO - 发现涨停股票：SHSE.600582 5.94 >= 0.0
+2025-01-07 14:43:22,528 - INFO - 发现涨停股票：SHSE.603496 22.46 >= 0.0
+2025-01-07 14:43:22,842 - INFO - 发现涨停股票：SHSE.600971 9.07 >= 0.0
+2025-01-07 14:43:22,879 - INFO - 发现涨停股票：SHSE.600396 2.55 >= 0.0
+2025-01-07 14:43:22,916 - INFO - 发现涨停股票：SHSE.601908 2.79 >= 0.0
+2025-01-07 14:43:23,252 - INFO - 发现涨停股票：SHSE.688685 30.78 >= 0.0
+2025-01-07 14:43:23,320 - INFO - 发现涨停股票：SHSE.601609 5.73 >= 0.0
+2025-01-07 14:43:23,388 - INFO - 发现涨停股票：SHSE.688314 27.73 >= 0.0
+2025-01-07 14:43:23,426 - INFO - 发现涨停股票：SHSE.600783 11.73 >= 0.0
+2025-01-07 14:43:23,466 - INFO - 发现涨停股票：SHSE.900923 0.66 >= 0.0
+2025-01-07 14:43:23,504 - INFO - 发现涨停股票：SHSE.601010 2.78 >= 0.0
+2025-01-07 14:43:23,544 - INFO - 发现涨停股票：SHSE.603778 2.88 >= 0.0
+2025-01-07 14:43:23,581 - INFO - 发现涨停股票：SHSE.601998 6.78 >= 0.0
+2025-01-07 14:43:23,917 - INFO - 发现涨停股票：SHSE.688068 77.15 >= 0.0
+2025-01-07 14:43:23,985 - INFO - 发现涨停股票：SHSE.688292 18.06 >= 0.0
+2025-01-07 14:43:24,053 - INFO - 发现涨停股票：SHSE.688310 10.23 >= 0.0
+2025-01-07 14:43:24,362 - INFO - 发现涨停股票：SHSE.600021 8.84 >= 0.0
+2025-01-07 14:43:24,399 - INFO - 发现涨停股票：SHSE.601816 5.9 >= 0.0
+2025-01-07 14:43:24,709 - INFO - 发现涨停股票：SHSE.688432 10.51 >= 0.0
+2025-01-07 14:43:24,780 - INFO - 发现涨停股票：SHSE.600203 8.45 >= 0.0
+2025-01-07 14:43:24,817 - INFO - 发现涨停股票：SHSE.600903 6.79 >= 0.0
+2025-01-07 14:43:24,854 - INFO - 发现涨停股票：SHSE.600908 5.73 >= 0.0
+2025-01-07 14:43:24,921 - INFO - 发现涨停股票：SHSE.605099 20.36 >= 0.0
+2025-01-07 14:43:24,958 - INFO - 发现涨停股票：SHSE.600809 174.14 >= 0.0
+2025-01-07 14:43:24,995 - INFO - 发现涨停股票：SHSE.688621 36.49 >= 0.0
+2025-01-07 14:43:25,032 - INFO - 发现涨停股票：SHSE.688293 36.2 >= 0.0
+2025-01-07 14:43:25,068 - INFO - 发现涨停股票：SHSE.688188 187.93 >= 0.0
+2025-01-07 14:43:25,105 - INFO - 发现涨停股票：SHSE.601989 4.48 >= 0.0
+2025-01-07 14:43:25,142 - INFO - 发现涨停股票：SHSE.605005 15.48 >= 0.0
+2025-01-07 14:43:25,179 - INFO - 发现涨停股票：SHSE.688107 25.98 >= 0.0
+2025-01-07 14:43:25,273 - INFO - 发现涨停股票：SHSE.688385 35.87 >= 0.0
+2025-01-07 14:43:25,310 - INFO - 发现涨停股票：SHSE.688046 12.37 >= 0.0
+2025-01-07 14:43:25,346 - INFO - 发现涨停股票：SHSE.600027 5.21 >= 0.0
+2025-01-07 14:43:25,383 - INFO - 发现涨停股票：SHSE.603711 14.32 >= 0.0
+2025-01-07 14:43:25,420 - INFO - 发现涨停股票：SHSE.603613 24.3 >= 0.0
+2025-01-07 14:43:26,236 - INFO - 发现涨停股票：SHSE.600104 18.25 >= 0.0
+2025-01-07 14:43:26,305 - INFO - 发现涨停股票：SHSE.600850 21.09 >= 0.0
+2025-01-07 14:43:26,645 - INFO - 发现涨停股票：SHSE.688365 11.98 >= 0.0
+2025-01-07 14:43:26,712 - INFO - 发现涨停股票：SHSE.603297 90.39 >= 0.0
+2025-01-07 14:43:26,750 - INFO - 发现涨停股票：SHSE.688479 15.97 >= 0.0
+2025-01-07 14:43:26,787 - INFO - 发现涨停股票：SHSE.688533 32.9 >= 0.0
+2025-01-07 14:43:26,825 - INFO - 发现涨停股票：SHSE.688258 30.13 >= 0.0
+2025-01-07 14:43:27,132 - INFO - 发现涨停股票：SHSE.603128 6.16 >= 0.0
+2025-01-07 14:43:27,170 - INFO - 发现涨停股票：SHSE.605580 12.44 >= 0.0
+2025-01-07 14:43:27,210 - INFO - 发现涨停股票：SHSE.688148 4.65 >= 0.0
+2025-01-07 14:43:27,249 - INFO - 发现涨停股票：SHSE.600482 23.16 >= 0.0
+2025-01-07 14:43:27,286 - INFO - 发现涨停股票：SHSE.600830 9.1 >= 0.0
+2025-01-07 14:43:27,325 - INFO - 发现涨停股票：SHSE.688165 27.63 >= 0.0
+2025-01-07 14:43:27,362 - INFO - 发现涨停股票：SHSE.600239 2.49 >= 0.0
+2025-01-07 14:43:27,399 - INFO - 发现涨停股票：SHSE.688289 21.7 >= 0.0
+2025-01-07 14:43:27,436 - INFO - 发现涨停股票：SHSE.603323 5.09 >= 0.0
+2025-01-07 14:43:27,474 - INFO - 发现涨停股票：SHSE.688186 16.49 >= 0.0
+2025-01-07 14:43:27,781 - INFO - 发现涨停股票：SHSE.688009 5.79 >= 0.0
+2025-01-07 14:43:27,817 - INFO - 发现涨停股票：SHSE.603212 9.69 >= 0.0
+2025-01-07 14:43:27,853 - INFO - 发现涨停股票：SHSE.603898 9.02 >= 0.0
+2025-01-07 14:43:27,925 - INFO - 发现涨停股票：SHSE.688047 123.28 >= 0.0
+2025-01-07 14:43:27,962 - INFO - 发现涨停股票：SHSE.603615 20.75 >= 0.0
+2025-01-07 14:43:28,000 - INFO - 发现涨停股票：SHSE.600331 7.12 >= 0.0
+2025-01-07 14:43:28,829 - INFO - 发现涨停股票：SHSE.688219 10.04 >= 0.0
+2025-01-07 14:43:28,897 - INFO - 发现涨停股票：SHSE.603918 11.4 >= 0.0
+2025-01-07 14:43:28,965 - INFO - 发现涨停股票：SHSE.603200 24.18 >= 0.0
+2025-01-07 14:43:29,032 - INFO - 发现涨停股票：SHSE.688391 27.94 >= 0.0
+2025-01-07 14:43:29,069 - INFO - 发现涨停股票：SHSE.601001 13.15 >= 0.0
+2025-01-07 14:43:29,106 - INFO - 发现涨停股票：SHSE.605198 27.02 >= 0.0
+2025-01-07 14:43:29,142 - INFO - 发现涨停股票：SHSE.900914 0.568 >= 0.0
+2025-01-07 14:43:29,180 - INFO - 发现涨停股票：SHSE.600895 24.83 >= 0.0
+2025-01-07 14:43:29,273 - INFO - 发现涨停股票：SHSE.603373 28.2 >= 0.0
+2025-01-07 14:43:29,310 - INFO - 发现涨停股票：SHSE.688025 44.53 >= 0.0
+2025-01-07 14:43:29,348 - INFO - 发现涨停股票：SHSE.688121 10.27 >= 0.0
+2025-01-07 14:43:29,385 - INFO - 发现涨停股票：SHSE.603968 8.97 >= 0.0
+2025-01-07 14:43:29,422 - INFO - 发现涨停股票：SHSE.603131 16.6 >= 0.0
+2025-01-07 14:43:29,460 - INFO - 发现涨停股票：SHSE.688012 182.86 >= 0.0
+2025-01-07 14:43:29,500 - INFO - 发现涨停股票：SHSE.600510 4.49 >= 0.0
+2025-01-07 14:43:29,537 - INFO - 发现涨停股票：SHSE.600182 15.81 >= 0.0
+2025-01-07 14:43:29,575 - INFO - 发现涨停股票：SHSE.688608 311.68 >= 0.0
+2025-01-07 14:43:29,617 - INFO - 发现涨停股票：SHSE.600782 3.35 >= 0.0
+2025-01-07 14:43:29,654 - INFO - 发现涨停股票：SHSE.688279 152.0 >= 0.0
+2025-01-07 14:43:29,693 - INFO - 发现涨停股票：SHSE.600486 54.69 >= 0.0
+2025-01-07 14:43:29,729 - INFO - 发现涨停股票：SHSE.688137 32.45 >= 0.0
+2025-01-07 14:43:30,157 - INFO - 发现涨停股票：SHSE.603350 31.37 >= 0.0
+2025-01-07 14:43:30,226 - INFO - 发现涨停股票：SHSE.688716 33.24 >= 0.0
+2025-01-07 14:43:30,461 - INFO - 发现涨停股票：SHSE.688552 15.23 >= 0.0
+2025-01-07 14:43:30,529 - INFO - 发现涨停股票：SHSE.601399 2.92 >= 0.0
+2025-01-07 14:43:30,566 - INFO - 发现涨停股票：SHSE.688267 22.53 >= 0.0
+2025-01-07 14:43:30,605 - INFO - 发现涨停股票：SHSE.601200 7.8 >= 0.0
+2025-01-07 14:43:30,645 - INFO - 发现涨停股票：SHSE.688176 6.61 >= 0.0
+2025-01-07 14:43:30,683 - INFO - 发现涨停股票：SHSE.688278 72.67 >= 0.0
+2025-01-07 14:43:30,718 - INFO - 发现涨停股票：SHSE.900940 0.238 >= 0.0
+2025-01-07 14:43:30,755 - INFO - 发现涨停股票：SHSE.688622 54.34 >= 0.0
+2025-01-07 14:43:30,755 - INFO - 成功获取198只股票的行情数据
+2025-01-07 14:43:30,767 - WARNING - 获取数据失败或没有涨停股票
+2025-01-07 14:45:26,589 - INFO - ========== 系统信息 ==========
+2025-01-07 14:45:26,589 - INFO - 当前工作目录：D:\Project
+2025-01-07 14:45:26,589 - INFO - Python路径：C:\Programs\Python\Python312\python.exe
+2025-01-07 14:45:26,589 - INFO - Python版本：3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]
+2025-01-07 14:45:26,589 - INFO - 环境变量PATH：C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Programs\Python\Python312\Scripts\;C:\Programs\Python\Python312\;D:\Python\Python313\Scripts\;D:\Python\Python313\;C:\Users\id220\AppData\Local\Programs\Python\Launcher\;C:\Users\id220\AppData\Local\Microsoft\WindowsApps;C:\Programs\Microsoft VS Code\bin
+2025-01-07 14:45:26,589 - INFO - gm模块安装路径：C:\Programs\Python\Python312\Lib
+2025-01-07 14:45:26,590 - INFO - 当前用户：id220
+2025-01-07 14:45:26,591 - INFO - 文件权限：666
+2025-01-07 14:45:26,591 - INFO - =============================
+2025-01-07 14:45:26,730 - INFO - gm.api模块导入成功
+2025-01-07 14:45:26,731 - INFO - token设置成功
+2025-01-07 14:45:26,731 - INFO - 立即执行任务...
+2025-01-07 14:45:26,731 - INFO - 开始获取涨停股票数据...
+2025-01-07 14:45:26,731 - INFO - gm.api模块导入成功
+2025-01-07 14:45:26,732 - INFO - token设置成功
+2025-01-07 14:45:26,732 - INFO - 测试API连接...
+2025-01-07 14:45:26,732 - INFO - 开始测试API连接...
+2025-01-07 14:45:26,951 - INFO - API连接测试成功
+2025-01-07 14:45:26,951 - INFO - API连接正常，开始获取数据...
+2025-01-07 14:45:26,951 - INFO - 开始测试API连接...
+2025-01-07 14:45:26,953 - INFO - API连接测试成功
+2025-01-07 14:45:26,953 - INFO - 开始获取股票基本信息...
+2025-01-07 14:45:27,357 - INFO - 成功获取200只股票基本信息
+2025-01-07 14:45:27,358 - INFO - 当前日期：2025-01-07
+2025-01-07 14:45:27,358 - INFO - 开始获取个股行情数据...
+2025-01-07 14:45:27,403 - WARNING - 无效的pre_close值：0.0 for SHSE.601789
+2025-01-07 14:45:27,439 - WARNING - 无效的pre_close值：0.0 for SHSE.603499
+2025-01-07 14:45:28,510 - WARNING - 无效的pre_close值：0.0 for SHSE.603015
+2025-01-07 14:45:28,578 - WARNING - 无效的pre_close值：0.0 for SHSE.603848
+2025-01-07 14:45:28,615 - WARNING - 无效的pre_close值：0.0 for SHSE.603048
+2025-01-07 14:45:28,651 - WARNING - 无效的pre_close值：0.0 for SHSE.603030
+2025-01-07 14:45:28,688 - WARNING - 无效的pre_close值：0.0 for SHSE.603667
+2025-01-07 14:45:29,236 - WARNING - 无效的pre_close值：0.0 for SHSE.603082
+2025-01-07 14:45:29,304 - WARNING - 无效的pre_close值：0.0 for SHSE.688728
+2025-01-07 14:45:29,371 - WARNING - 无效的pre_close值：0.0 for SHSE.600033
+2025-01-07 14:45:29,408 - WARNING - 无效的pre_close值：0.0 for SHSE.603335
+2025-01-07 14:45:30,430 - WARNING - 无效的pre_close值：0.0 for SHSE.600126
+2025-01-07 14:45:30,498 - WARNING - 无效的pre_close值：0.0 for SHSE.603266
+2025-01-07 14:45:30,565 - WARNING - 无效的pre_close值：0.0 for SHSE.603797
+2025-01-07 14:45:30,636 - WARNING - 无效的pre_close值：0.0 for SHSE.603877
+2025-01-07 14:45:30,704 - WARNING - 无效的pre_close值：0.0 for SHSE.600600
+2025-01-07 14:45:30,741 - WARNING - 无效的pre_close值：0.0 for SHSE.603002
+2025-01-07 14:45:31,046 - WARNING - 无效的pre_close值：0.0 for SHSE.688348
+2025-01-07 14:45:31,147 - WARNING - 无效的pre_close值：0.0 for SHSE.603800
+2025-01-07 14:45:31,214 - WARNING - 无效的pre_close值：0.0 for SHSE.600638
+2025-01-07 14:45:31,283 - WARNING - 无效的pre_close值：0.0 for SHSE.600995
+2025-01-07 14:45:31,319 - WARNING - 无效的pre_close值：0.0 for SHSE.603158
+2025-01-07 14:45:31,356 - WARNING - 无效的pre_close值：0.0 for SHSE.688045
+2025-01-07 14:45:31,393 - WARNING - 无效的pre_close值：0.0 for SHSE.600581
+2025-01-07 14:45:31,435 - WARNING - 无效的pre_close值：0.0 for SHSE.600177
+2025-01-07 14:45:31,471 - WARNING - 无效的pre_close值：0.0 for SHSE.688581
+2025-01-07 14:45:31,803 - WARNING - 无效的pre_close值：0.0 for SHSE.688306
+2025-01-07 14:45:31,873 - WARNING - 无效的pre_close值：0.0 for SHSE.688033
+2025-01-07 14:45:31,944 - WARNING - 无效的pre_close值：0.0 for SHSE.688029
+2025-01-07 14:45:31,981 - WARNING - 无效的pre_close值：0.0 for SHSE.688692
+2025-01-07 14:45:32,017 - WARNING - 无效的pre_close值：0.0 for SHSE.688376
+2025-01-07 14:45:32,054 - WARNING - 无效的pre_close值：0.0 for SHSE.600483
+2025-01-07 14:45:32,090 - WARNING - 无效的pre_close值：0.0 for SHSE.603038
+2025-01-07 14:45:32,132 - WARNING - 无效的pre_close值：0.0 for SHSE.603303
+2025-01-07 14:45:32,170 - WARNING - 无效的pre_close值：0.0 for SHSE.688334
+2025-01-07 14:45:32,207 - WARNING - 无效的pre_close值：0.0 for SHSE.600320
+2025-01-07 14:45:32,244 - WARNING - 无效的pre_close值：0.0 for SHSE.688528
+2025-01-07 14:45:32,281 - WARNING - 无效的pre_close值：0.0 for SHSE.603859
+2025-01-07 14:45:32,319 - WARNING - 无效的pre_close值：0.0 for SHSE.600633
+2025-01-07 14:45:32,357 - WARNING - 无效的pre_close值：0.0 for SHSE.603708
+2025-01-07 14:45:32,394 - WARNING - 无效的pre_close值：0.0 for SHSE.603086
+2025-01-07 14:45:32,943 - WARNING - 无效的pre_close值：0.0 for SHSE.688032
+2025-01-07 14:45:33,012 - WARNING - 无效的pre_close值：0.0 for SHSE.600000
+2025-01-07 14:45:33,086 - WARNING - 无效的pre_close值：0.0 for SHSE.688069
+2025-01-07 14:45:33,124 - WARNING - 无效的pre_close值：0.0 for SHSE.688393
+2025-01-07 14:45:33,162 - WARNING - 无效的pre_close值：0.0 for SHSE.603191
+2025-01-07 14:45:33,199 - WARNING - 无效的pre_close值：0.0 for SHSE.688496
+2025-01-07 14:45:33,263 - WARNING - 无效的pre_close值：0.0 for SHSE.605288
+2025-01-07 14:45:33,301 - WARNING - 无效的pre_close值：0.0 for SHSE.600807
+2025-01-07 14:45:33,373 - WARNING - 无效的pre_close值：0.0 for SHSE.603897
+2025-01-07 14:45:33,411 - WARNING - 无效的pre_close值：0.0 for SHSE.600133
+2025-01-07 14:45:33,449 - WARNING - 无效的pre_close值：0.0 for SHSE.900928
+2025-01-07 14:45:33,545 - WARNING - 无效的pre_close值：0.0 for SHSE.688316
+2025-01-07 14:45:33,875 - WARNING - 无效的pre_close值：0.0 for SHSE.688699
+2025-01-07 14:45:33,945 - WARNING - 无效的pre_close值：0.0 for SHSE.603067
+2025-01-07 14:45:34,310 - WARNING - 无效的pre_close值：0.0 for SHSE.688262
+2025-01-07 14:45:34,384 - WARNING - 无效的pre_close值：0.0 for SHSE.603033
+2025-01-07 14:45:34,694 - WARNING - 无效的pre_close值：0.0 for SHSE.688078
+2025-01-07 14:45:35,246 - WARNING - 无效的pre_close值：0.0 for SHSE.601169
+2025-01-07 14:45:35,316 - WARNING - 无效的pre_close值：0.0 for SHSE.600497
+2025-01-07 14:45:35,385 - WARNING - 无效的pre_close值：0.0 for SHSE.603116
+2025-01-07 14:45:35,421 - WARNING - 无效的pre_close值：0.0 for SHSE.605117
+2025-01-07 14:45:35,458 - WARNING - 无效的pre_close值：0.0 for SHSE.600765
+2025-01-07 14:45:35,495 - WARNING - 无效的pre_close值：0.0 for SHSE.603885
+2025-01-07 14:45:35,532 - WARNING - 无效的pre_close值：0.0 for SHSE.688515
+2025-01-07 14:45:37,478 - WARNING - 无效的pre_close值：0.0 for SHSE.900913
+2025-01-07 14:45:37,550 - WARNING - 无效的pre_close值：0.0 for SHSE.688090
+2025-01-07 14:45:37,591 - WARNING - 无效的pre_close值：0.0 for SHSE.688280
+2025-01-07 14:45:37,682 - WARNING - 无效的pre_close值：0.0 for SHSE.688381
+2025-01-07 14:45:37,996 - WARNING - 无效的pre_close值：0.0 for SHSE.600512
+2025-01-07 14:45:38,034 - WARNING - 无效的pre_close值：0.0 for SHSE.600478
+2025-01-07 14:45:38,102 - WARNING - 无效的pre_close值：0.0 for SHSE.603871
+2025-01-07 14:45:38,139 - WARNING - 无效的pre_close值：0.0 for SHSE.600579
+2025-01-07 14:45:38,177 - WARNING - 无效的pre_close值：0.0 for SHSE.605567
+2025-01-07 14:45:38,214 - WARNING - 无效的pre_close值：0.0 for SHSE.603733
+2025-01-07 14:45:38,252 - WARNING - 无效的pre_close值：0.0 for SHSE.601336
+2025-01-07 14:45:38,290 - WARNING - 无效的pre_close值：0.0 for SHSE.603000
+2025-01-07 14:45:38,336 - WARNING - 无效的pre_close值：0.0 for SHSE.600545
+2025-01-07 14:45:39,391 - WARNING - 无效的pre_close值：0.0 for SHSE.600800
+2025-01-07 14:45:39,465 - WARNING - 无效的pre_close值：0.0 for SHSE.600455
+2025-01-07 14:45:39,503 - WARNING - 无效的pre_close值：0.0 for SHSE.600463
+2025-01-07 14:45:39,540 - WARNING - 无效的pre_close值：0.0 for SHSE.605180
+2025-01-07 14:45:39,584 - WARNING - 无效的pre_close值：0.0 for SHSE.603313
+2025-01-07 14:45:39,621 - WARNING - 无效的pre_close值：0.0 for SHSE.688105
+2025-01-07 14:45:40,546 - WARNING - 无效的pre_close值：0.0 for SHSE.688161
+2025-01-07 14:45:40,616 - WARNING - 无效的pre_close值：0.0 for SHSE.600173
+2025-01-07 14:45:40,685 - WARNING - 无效的pre_close值：0.0 for SHSE.900941
+2025-01-07 14:45:40,990 - WARNING - 无效的pre_close值：0.0 for SHSE.600202
+2025-01-07 14:45:41,027 - WARNING - 无效的pre_close值：0.0 for SHSE.603273
+2025-01-07 14:45:41,068 - WARNING - 无效的pre_close值：0.0 for SHSE.688489
+2025-01-07 14:45:41,374 - WARNING - 无效的pre_close值：0.0 for SHSE.600382
+2025-01-07 14:45:41,442 - WARNING - 无效的pre_close值：0.0 for SHSE.600686
+2025-01-07 14:45:41,479 - WARNING - 无效的pre_close值：0.0 for SHSE.600305
+2025-01-07 14:45:41,787 - WARNING - 无效的pre_close值：0.0 for SHSE.600691
+2025-01-07 14:45:41,823 - WARNING - 无效的pre_close值：0.0 for SHSE.603367
+2025-01-07 14:45:41,891 - WARNING - 无效的pre_close值：0.0 for SHSE.605299
+2025-01-07 14:45:41,928 - WARNING - 无效的pre_close值：0.0 for SHSE.603172
+2025-01-07 14:45:41,965 - WARNING - 无效的pre_close值：0.0 for SHSE.688689
+2025-01-07 14:45:42,271 - WARNING - 无效的pre_close值：0.0 for SHSE.601828
+2025-01-07 14:45:42,588 - WARNING - 无效的pre_close值：0.0 for SHSE.600155
+2025-01-07 14:45:42,657 - WARNING - 无效的pre_close值：0.0 for SHSE.603610
+2025-01-07 14:45:42,725 - WARNING - 无效的pre_close值：0.0 for SHSE.601717
+2025-01-07 14:45:42,764 - WARNING - 无效的pre_close值：0.0 for SHSE.600801
+2025-01-07 14:45:42,806 - WARNING - 无效的pre_close值：0.0 for SHSE.688367
+2025-01-07 14:45:42,843 - WARNING - 无效的pre_close值：0.0 for SHSE.603098
+2025-01-07 14:45:42,882 - WARNING - 无效的pre_close值：0.0 for SHSE.600460
+2025-01-07 14:45:42,921 - WARNING - 无效的pre_close值：0.0 for SHSE.600648
+2025-01-07 14:45:42,960 - WARNING - 无效的pre_close值：0.0 for SHSE.688526
+2025-01-07 14:45:43,000 - WARNING - 无效的pre_close值：0.0 for SHSE.603383
+2025-01-07 14:45:43,307 - WARNING - 无效的pre_close值：0.0 for SHSE.600728
+2025-01-07 14:45:43,344 - WARNING - 无效的pre_close值：0.0 for SHSE.600802
+2025-01-07 14:45:43,381 - WARNING - 无效的pre_close值：0.0 for SHSE.600369
+2025-01-07 14:45:43,711 - WARNING - 无效的pre_close值：0.0 for SHSE.600989
+2025-01-07 14:45:43,781 - WARNING - 无效的pre_close值：0.0 for SHSE.601218
+2025-01-07 14:45:43,850 - WARNING - 无效的pre_close值：0.0 for SHSE.600282
+2025-01-07 14:45:44,280 - WARNING - 无效的pre_close值：0.0 for SHSE.600316
+2025-01-07 14:45:44,348 - WARNING - 无效的pre_close值：0.0 for SHSE.603637
+2025-01-07 14:45:44,417 - WARNING - 无效的pre_close值：0.0 for SHSE.603839
+2025-01-07 14:45:44,454 - WARNING - 无效的pre_close值：0.0 for SHSE.603332
+2025-01-07 14:45:44,489 - WARNING - 无效的pre_close值：0.0 for SHSE.601166
+2025-01-07 14:45:44,527 - WARNING - 无效的pre_close值：0.0 for SHSE.600667
+2025-01-07 14:45:44,563 - WARNING - 无效的pre_close值：0.0 for SHSE.688722
+2025-01-07 14:45:44,600 - WARNING - 无效的pre_close值：0.0 for SHSE.601818
+2025-01-07 14:45:44,636 - WARNING - 无效的pre_close值：0.0 for SHSE.603960
+2025-01-07 14:45:44,674 - WARNING - 无效的pre_close值：0.0 for SHSE.600605
+2025-01-07 14:45:44,710 - WARNING - 无效的pre_close值：0.0 for SHSE.600390
+2025-01-07 14:45:44,749 - WARNING - 无效的pre_close值：0.0 for SHSE.900920
+2025-01-07 14:45:44,822 - WARNING - 无效的pre_close值：0.0 for SHSE.600938
+2025-01-07 14:45:44,857 - WARNING - 无效的pre_close值：0.0 for SHSE.688151
+2025-01-07 14:45:45,198 - WARNING - 无效的pre_close值：0.0 for SHSE.600580
+2025-01-07 14:45:45,236 - WARNING - 无效的pre_close值：0.0 for SHSE.600866
+2025-01-07 14:45:45,304 - WARNING - 无效的pre_close值：0.0 for SHSE.688726
+2025-01-07 14:45:45,343 - WARNING - 无效的pre_close值：0.0 for SHSE.688236
+2025-01-07 14:45:45,381 - WARNING - 无效的pre_close值：0.0 for SHSE.600983
+2025-01-07 14:45:45,418 - WARNING - 无效的pre_close值：0.0 for SHSE.688361
+2025-01-07 14:45:45,455 - WARNING - 无效的pre_close值：0.0 for SHSE.603810
+2025-01-07 14:45:45,492 - WARNING - 无效的pre_close值：0.0 for SHSE.603876
+2025-01-07 14:45:45,530 - WARNING - 无效的pre_close值：0.0 for SHSE.600062
+2025-01-07 14:45:45,570 - WARNING - 无效的pre_close值：0.0 for SHSE.688139
+2025-01-07 14:45:45,875 - WARNING - 无效的pre_close值：0.0 for SHSE.603211
+2025-01-07 14:45:45,913 - WARNING - 无效的pre_close值：0.0 for SHSE.600187
+2025-01-07 14:45:45,981 - WARNING - 无效的pre_close值：0.0 for SHSE.605599
+2025-01-07 14:45:46,019 - WARNING - 无效的pre_close值：0.0 for SHSE.601688
+2025-01-07 14:45:46,087 - WARNING - 无效的pre_close值：0.0 for SHSE.603883
+2025-01-07 14:45:46,634 - WARNING - 无效的pre_close值：0.0 for SHSE.603657
+2025-01-07 14:45:47,055 - WARNING - 无效的pre_close值：0.0 for SHSE.603072
+2025-01-07 14:45:47,125 - WARNING - 无效的pre_close值：0.0 for SHSE.603717
+2025-01-07 14:45:47,161 - WARNING - 无效的pre_close值：0.0 for SHSE.600998
+2025-01-07 14:45:47,199 - WARNING - 无效的pre_close值：0.0 for SHSE.603730
+2025-01-07 14:45:47,238 - WARNING - 无效的pre_close值：0.0 for SHSE.688308
+2025-01-07 14:45:47,275 - WARNING - 无效的pre_close值：0.0 for SHSE.688330
+2025-01-07 14:45:47,313 - WARNING - 无效的pre_close值：0.0 for SHSE.688389
+2025-01-07 14:45:47,349 - WARNING - 无效的pre_close值：0.0 for SHSE.688061
+2025-01-07 14:45:47,387 - WARNING - 无效的pre_close值：0.0 for SHSE.600415
+2025-01-07 14:45:47,425 - WARNING - 无效的pre_close值：0.0 for SHSE.601857
+2025-01-07 14:45:47,468 - WARNING - 无效的pre_close值：0.0 for SHSE.688595
+2025-01-07 14:45:47,505 - WARNING - 无效的pre_close值：0.0 for SHSE.600584
+2025-01-07 14:45:47,566 - WARNING - 无效的pre_close值：0.0 for SHSE.600328
+2025-01-07 14:45:48,479 - WARNING - 无效的pre_close值：0.0 for SHSE.605228
+2025-01-07 14:45:48,547 - WARNING - 无效的pre_close值：0.0 for SHSE.688382
+2025-01-07 14:45:48,585 - WARNING - 无效的pre_close值：0.0 for SHSE.600206
+2025-01-07 14:45:48,623 - WARNING - 无效的pre_close值：0.0 for SHSE.688616
+2025-01-07 14:45:48,661 - WARNING - 无效的pre_close值：0.0 for SHSE.600795
+2025-01-07 14:45:48,700 - WARNING - 无效的pre_close值：0.0 for SHSE.601636
+2025-01-07 14:45:48,737 - WARNING - 无效的pre_close值：0.0 for SHSE.605060
+2025-01-07 14:45:48,774 - WARNING - 无效的pre_close值：0.0 for SHSE.601333
+2025-01-07 14:45:48,867 - WARNING - 无效的pre_close值：0.0 for SHSE.688339
+2025-01-07 14:45:48,904 - WARNING - 无效的pre_close值：0.0 for SHSE.688520
+2025-01-07 14:45:49,450 - WARNING - 无效的pre_close值：0.0 for SHSE.600561
+2025-01-07 14:45:49,519 - WARNING - 无效的pre_close值：0.0 for SHSE.688575
+2025-01-07 14:45:49,556 - WARNING - 无效的pre_close值：0.0 for SHSE.600837
+2025-01-07 14:45:49,621 - WARNING - 无效的pre_close值：0.0 for SHSE.688327
+2025-01-07 14:45:49,659 - WARNING - 无效的pre_close值：0.0 for SHSE.688720
+2025-01-07 14:45:49,967 - WARNING - 无效的pre_close值：0.0 for SHSE.600917
+2025-01-07 14:45:50,147 - WARNING - 无效的pre_close值：0.0 for SHSE.688228
+2025-01-07 14:45:50,214 - WARNING - 无效的pre_close值：0.0 for SHSE.600871
+2025-01-07 14:45:50,281 - WARNING - 无效的pre_close值：0.0 for SHSE.603577
+2025-01-07 14:45:50,319 - WARNING - 无效的pre_close值：0.0 for SHSE.688396
+2025-01-07 14:45:50,356 - WARNING - 无效的pre_close值：0.0 for SHSE.600748
+2025-01-07 14:45:50,391 - WARNING - 无效的pre_close值：0.0 for SHSE.688051
+2025-01-07 14:45:50,429 - WARNING - 无效的pre_close值：0.0 for SHSE.601881
+2025-01-07 14:45:50,468 - WARNING - 无效的pre_close值：0.0 for SHSE.601058
+2025-01-07 14:45:50,505 - WARNING - 无效的pre_close值：0.0 for SHSE.688108
+2025-01-07 14:45:50,541 - WARNING - 无效的pre_close值：0.0 for SHSE.600012
+2025-01-07 14:45:50,577 - WARNING - 无效的pre_close值：0.0 for SHSE.688458
+2025-01-07 14:45:50,615 - WARNING - 无效的pre_close值：0.0 for SHSE.600121
+2025-01-07 14:45:50,651 - WARNING - 无效的pre_close值：0.0 for SHSE.688170
+2025-01-07 14:45:50,688 - WARNING - 无效的pre_close值：0.0 for SHSE.688503
+2025-01-07 14:45:50,725 - WARNING - 无效的pre_close值：0.0 for SHSE.600549
+2025-01-07 14:45:50,763 - WARNING - 无效的pre_close值：0.0 for SHSE.600157
+2025-01-07 14:45:50,800 - WARNING - 无效的pre_close值：0.0 for SHSE.601686
+2025-01-07 14:45:50,837 - WARNING - 无效的pre_close值：0.0 for SHSE.900946
+2025-01-07 14:45:50,874 - WARNING - 无效的pre_close值：0.0 for SHSE.600596
+2025-01-07 14:45:50,911 - WARNING - 无效的pre_close值：0.0 for SHSE.688378
+2025-01-07 14:45:50,949 - WARNING - 无效的pre_close值：0.0 for SHSE.688092
+2025-01-07 14:45:50,985 - WARNING - 无效的pre_close值：0.0 for SHSE.688558
+2025-01-07 14:45:50,986 - INFO - 成功获取0只股票的行情数据
+2025-01-07 14:45:50,987 - WARNING - 获取数据失败或没有涨停股票
+2025-01-07 14:58:25,207 - INFO - ========== 系统信息 ==========
+2025-01-07 14:58:25,207 - INFO - 当前工作目录：D:\Project
+2025-01-07 14:58:25,207 - INFO - Python路径：C:\Programs\Python\Python312\python.exe
+2025-01-07 14:58:25,207 - INFO - Python版本：3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]
+2025-01-07 14:58:25,207 - INFO - 环境变量PATH：C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Programs\Python\Python312\Scripts\;C:\Programs\Python\Python312\;D:\Python\Python313\Scripts\;D:\Python\Python313\;C:\Users\id220\AppData\Local\Programs\Python\Launcher\;C:\Users\id220\AppData\Local\Microsoft\WindowsApps;C:\Programs\Microsoft VS Code\bin
+2025-01-07 14:58:25,208 - INFO - gm模块安装路径：C:\Programs\Python\Python312\Lib
+2025-01-07 14:58:25,208 - INFO - 当前用户：id220
+2025-01-07 14:58:25,209 - INFO - 文件权限：666
+2025-01-07 14:58:25,209 - INFO - =============================
+2025-01-07 14:58:25,361 - INFO - gm.api模块导入成功
+2025-01-07 14:58:25,362 - INFO - token设置成功
+2025-01-07 14:58:25,362 - INFO - 立即执行任务...
+2025-01-07 14:58:25,362 - INFO - 开始获取涨停股票数据...
+2025-01-07 14:58:25,362 - INFO - gm.api模块导入成功
+2025-01-07 14:58:25,362 - INFO - token设置成功
+2025-01-07 14:58:25,362 - INFO - 测试API连接...
+2025-01-07 14:58:25,362 - INFO - 开始测试API连接...
+2025-01-07 14:58:25,748 - INFO - API连接测试成功
+2025-01-07 14:58:25,748 - INFO - API连接正常，开始获取数据...
+2025-01-07 14:58:25,748 - INFO - 开始测试API连接...
+2025-01-07 14:58:25,751 - INFO - API连接测试成功
+2025-01-07 14:58:25,751 - INFO - 开始获取股票基本信息...
+2025-01-07 14:58:26,131 - INFO - 成功获取200只股票基本信息
+2025-01-07 14:58:26,131 - INFO - 当前日期：2025-01-07
+2025-01-07 14:58:26,131 - INFO - 开始获取个股行情数据...
+2025-01-07 14:58:30,197 - WARNING - 无法获取SHSE.900931的前一日收盘价
+2025-01-07 14:58:32,022 - INFO - 发现涨停股票：SHSE.600860 10.45 >= 10.45
+2025-01-07 14:58:33,296 - WARNING - 无法获取SHSE.600068的前一日收盘价
+2025-01-07 14:58:36,359 - WARNING - 无法获取SHSE.600297的前一日收盘价
+2025-01-07 14:58:37,174 - WARNING - 无法获取SHSE.600112的前一日收盘价
+2025-01-07 14:58:44,099 - INFO - 成功获取1只股票的行情数据
+2025-01-07 14:58:44,102 - ERROR - 获取股票数据失败：'name'
+2025-01-07 14:58:44,103 - WARNING - 获取数据失败或没有涨停股票
+2025-01-07 15:00:42,495 - INFO - ========== 系统信息 ==========
+2025-01-07 15:00:42,495 - INFO - 当前工作目录：D:\Project
+2025-01-07 15:00:42,495 - INFO - Python路径：C:\Programs\Python\Python312\python.exe
+2025-01-07 15:00:42,495 - INFO - Python版本：3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]
+2025-01-07 15:00:42,496 - INFO - 环境变量PATH：C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Programs\Python\Python312\Scripts\;C:\Programs\Python\Python312\;D:\Python\Python313\Scripts\;D:\Python\Python313\;C:\Users\id220\AppData\Local\Programs\Python\Launcher\;C:\Users\id220\AppData\Local\Microsoft\WindowsApps;C:\Programs\Microsoft VS Code\bin
+2025-01-07 15:00:42,496 - INFO - gm模块安装路径：C:\Programs\Python\Python312\Lib
+2025-01-07 15:00:42,497 - INFO - 当前用户：id220
+2025-01-07 15:00:42,497 - INFO - 文件权限：666
+2025-01-07 15:00:42,497 - INFO - =============================
+2025-01-07 15:00:42,637 - INFO - gm.api模块导入成功
+2025-01-07 15:00:42,637 - INFO - token设置成功
+2025-01-07 15:00:42,637 - INFO - 立即执行任务...
+2025-01-07 15:00:42,637 - INFO - 开始获取涨停股票数据...
+2025-01-07 15:00:42,637 - INFO - gm.api模块导入成功
+2025-01-07 15:00:42,638 - INFO - token设置成功
+2025-01-07 15:00:42,638 - INFO - 测试API连接...
+2025-01-07 15:00:42,638 - INFO - 开始测试API连接...
+2025-01-07 15:00:42,844 - INFO - API连接测试成功
+2025-01-07 15:00:42,844 - INFO - API连接正常，开始获取数据...
+2025-01-07 15:00:42,845 - INFO - 开始测试API连接...
+2025-01-07 15:00:42,846 - INFO - API连接测试成功
+2025-01-07 15:00:42,846 - INFO - 开始获取股票基本信息...
+2025-01-07 15:00:43,202 - INFO - 成功获取200只股票基本信息
+2025-01-07 15:00:43,202 - INFO - 当前日期：2025-01-07
+2025-01-07 15:00:43,203 - INFO - 开始获取个股行情数据...
+2025-01-07 15:00:45,162 - INFO - 发现涨停股票：SHSE.603813 11.69 >= 11.69
+2025-01-07 15:00:46,009 - WARNING - 无法获取SHSE.600849的前一日收盘价
+2025-01-07 15:00:46,353 - INFO - 发现涨停股票：SHSE.600793 20.54 >= 20.54
+2025-01-07 15:00:48,415 - INFO - 发现涨停股票：SHSE.603269 12.75 >= 12.75
+2025-01-07 15:00:49,090 - WARNING - 无法获取SHSE.600220的前一日收盘价
+2025-01-07 15:00:50,813 - WARNING - 无法获取SHSE.600002的前一日收盘价
+2025-01-07 15:00:53,872 - WARNING - 无法获取SHSE.600001的前一日收盘价
+2025-01-07 15:00:57,632 - INFO - 成功获取3只股票的行情数据
+2025-01-07 15:00:57,634 - ERROR - 获取股票数据失败：'name'
+2025-01-07 15:00:57,636 - WARNING - 获取数据失败或没有涨停股票
+2025-01-07 16:29:47,946 - INFO - ========== 系统信息 ==========
+2025-01-07 16:29:47,947 - INFO - 当前工作目录：D:\Project
+2025-01-07 16:29:47,948 - INFO - Python路径：C:\Programs\Python\Python312\python.exe
+2025-01-07 16:29:47,948 - INFO - Python版本：3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]
+2025-01-07 16:29:47,948 - INFO - 环境变量PATH：C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Programs\Python\Python312\Scripts\;C:\Programs\Python\Python312\;D:\Python\Python313\Scripts\;D:\Python\Python313\;C:\Users\id220\AppData\Local\Programs\Python\Launcher\;C:\Users\id220\AppData\Local\Microsoft\WindowsApps;C:\Programs\Microsoft VS Code\bin
+2025-01-07 16:29:47,948 - INFO - gm模块安装路径：C:\Programs\Python\Python312\Lib
+2025-01-07 16:29:47,949 - INFO - 当前用户：id220
+2025-01-07 16:29:47,950 - INFO - 文件权限：666
+2025-01-07 16:29:47,950 - INFO - =============================
+2025-01-07 16:29:48,173 - INFO - gm.api模块导入成功
+2025-01-07 16:29:48,174 - INFO - token设置成功
+2025-01-07 16:29:48,174 - INFO - 立即执行任务...
+2025-01-07 16:29:48,174 - INFO - 开始获取涨停股票数据...
+2025-01-07 16:29:48,174 - INFO - gm.api模块导入成功
+2025-01-07 16:29:48,174 - INFO - token设置成功
+2025-01-07 16:29:48,174 - INFO - 测试API连接...
+2025-01-07 16:29:48,174 - INFO - 开始测试API连接...
+2025-01-07 16:29:48,524 - INFO - API连接测试成功
+2025-01-07 16:29:48,524 - INFO - API连接正常，开始获取数据...
+2025-01-07 16:29:48,524 - INFO - 开始测试API连接...
+2025-01-07 16:29:48,526 - INFO - API连接测试成功
+2025-01-07 16:29:48,526 - INFO - 开始获取股票基本信息...
+2025-01-07 16:29:48,903 - INFO - 成功获取200只股票基本信息
+2025-01-07 16:29:48,903 - INFO - 当前日期：2025-01-07
+2025-01-07 16:29:48,904 - INFO - 开始获取个股行情数据...
+2025-01-07 16:29:49,913 - WARNING - 无法获取SHSE.600832的前一日收盘价
+2025-01-07 16:29:54,005 - INFO - 发现涨停股票：SHSE.600218 8.22 >= 8.22
+2025-01-07 16:29:55,490 - WARNING - 无法获取SHSE.600357的前一日收盘价
+2025-01-07 16:29:58,956 - WARNING - 无法获取SHSE.600625的前一日收盘价
+2025-01-07 16:30:03,727 - WARNING - 无法获取SHSE.900931的前一日收盘价
+2025-01-07 16:30:04,512 - INFO - 成功获取1只股票的行情数据
+2025-01-07 16:30:04,514 - ERROR - 获取股票数据失败："['name'] not in index"
+2025-01-07 16:30:04,516 - WARNING - 获取数据失败或没有涨停股票
+2025-01-07 16:33:57,676 - INFO - ========== 系统信息 ==========
+2025-01-07 16:33:57,677 - INFO - 当前工作目录：D:\Project
+2025-01-07 16:33:57,677 - INFO - Python路径：C:\Programs\Python\Python312\python.exe
+2025-01-07 16:33:57,677 - INFO - Python版本：3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]
+2025-01-07 16:33:57,677 - INFO - 环境变量PATH：C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Programs\Python\Python312\Scripts\;C:\Programs\Python\Python312\;D:\Python\Python313\Scripts\;D:\Python\Python313\;C:\Users\id220\AppData\Local\Programs\Python\Launcher\;C:\Users\id220\AppData\Local\Microsoft\WindowsApps;C:\Programs\Microsoft VS Code\bin
+2025-01-07 16:33:57,677 - INFO - gm模块安装路径：C:\Programs\Python\Python312\Lib
+2025-01-07 16:33:57,678 - INFO - 当前用户：id220
+2025-01-07 16:33:57,678 - INFO - 文件权限：666
+2025-01-07 16:33:57,678 - INFO - =============================
+2025-01-07 16:33:57,814 - INFO - gm.api模块导入成功
+2025-01-07 16:33:57,814 - INFO - token设置成功
+2025-01-07 16:33:57,814 - INFO - 立即执行任务...
+2025-01-07 16:33:57,814 - INFO - 开始获取涨停股票数据...
+2025-01-07 16:33:57,814 - INFO - gm.api模块导入成功
+2025-01-07 16:33:57,814 - INFO - token设置成功
+2025-01-07 16:33:57,814 - INFO - 测试API连接...
+2025-01-07 16:33:57,816 - INFO - 开始测试API连接...
+2025-01-07 16:33:58,094 - INFO - API连接测试成功
+2025-01-07 16:33:58,095 - INFO - API连接正常，开始获取数据...
+2025-01-07 16:33:58,095 - INFO - 开始测试API连接...
+2025-01-07 16:33:58,098 - INFO - API连接测试成功
+2025-01-07 16:33:58,098 - INFO - 开始获取股票基本信息...
+2025-01-07 16:33:58,456 - INFO - 成功获取200只股票基本信息
+2025-01-07 16:33:58,457 - INFO - 当前日期：2025-01-07
+2025-01-07 16:33:58,457 - INFO - 开始获取个股行情数据...
+2025-01-07 16:33:59,854 - WARNING - 无法获取SHSE.900953的前一日收盘价
+2025-01-07 16:34:04,104 - WARNING - 无法获取SHSE.600607的前一日收盘价
+2025-01-07 16:34:05,833 - INFO - 发现涨停股票：SHSE.605033 17.61 >= 17.61
+2025-01-07 16:34:14,057 - WARNING - 无法获取SHSE.600632的前一日收盘价
+2025-01-07 16:34:15,321 - INFO - 成功获取1只股票的行情数据
+2025-01-07 16:34:15,322 - ERROR - 股票信息缺少必要列，需要：['symbol', 'name', 'exchange']，实际：['symbol', 'exchange']
+2025-01-07 16:34:15,323 - WARNING - 获取数据失败或没有涨停股票
+2025-01-07 16:37:49,053 - INFO - ========== 系统信息 ==========
+2025-01-07 16:37:49,053 - INFO - 当前工作目录：D:\Project
+2025-01-07 16:37:49,053 - INFO - Python路径：C:\Programs\Python\Python312\python.exe
+2025-01-07 16:37:49,053 - INFO - Python版本：3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]
+2025-01-07 16:37:49,054 - INFO - 环境变量PATH：C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Programs\Python\Python312\Scripts\;C:\Programs\Python\Python312\;D:\Python\Python313\Scripts\;D:\Python\Python313\;C:\Users\id220\AppData\Local\Programs\Python\Launcher\;C:\Users\id220\AppData\Local\Microsoft\WindowsApps;C:\Programs\Microsoft VS Code\bin
+2025-01-07 16:37:49,054 - INFO - gm模块安装路径：C:\Programs\Python\Python312\Lib
+2025-01-07 16:37:49,054 - INFO - 当前用户：id220
+2025-01-07 16:37:49,054 - INFO - 文件权限：666
+2025-01-07 16:37:49,054 - INFO - =============================
+2025-01-07 16:37:49,201 - INFO - gm.api模块导入成功
+2025-01-07 16:37:49,202 - INFO - token设置成功
+2025-01-07 16:37:49,202 - INFO - 立即执行任务...
+2025-01-07 16:37:49,202 - INFO - 开始获取涨停股票数据...
+2025-01-07 16:37:49,202 - INFO - gm.api模块导入成功
+2025-01-07 16:37:49,202 - INFO - token设置成功
+2025-01-07 16:37:49,202 - INFO - 测试API连接...
+2025-01-07 16:37:49,203 - INFO - 开始测试API连接...
+2025-01-07 16:37:49,516 - INFO - API连接测试成功
+2025-01-07 16:37:49,517 - INFO - API连接正常，开始获取数据...
+2025-01-07 16:37:49,517 - INFO - 开始测试API连接...
+2025-01-07 16:37:49,519 - INFO - API连接测试成功
+2025-01-07 16:37:49,520 - INFO - 开始获取股票基本信息...
+2025-01-07 16:37:49,886 - INFO - 成功获取200只股票基本信息
+2025-01-07 16:37:49,886 - INFO - 当前日期：2025-01-07
+2025-01-07 16:37:49,886 - INFO - 开始获取个股行情数据...
+2025-01-07 16:37:51,855 - WARNING - 无法获取SHSE.600213的前一日收盘价
+2025-01-07 16:37:53,752 - WARNING - 无法获取SHSE.900953的前一日收盘价
+2025-01-07 16:37:54,985 - WARNING - 无法获取SHSE.600607的前一日收盘价
+2025-01-07 16:37:55,506 - INFO - 发现涨停股票：SHSE.605033 17.61 >= 17.61
+2025-01-07 16:37:57,259 - INFO - 成功获取1只股票的行情数据
+2025-01-07 16:37:57,261 - WARNING - 股票信息缺少name列，使用默认名称
+2025-01-07 16:37:57,271 - INFO - 成功保存1只涨停股票数据
+2025-01-07 16:39:08,378 - INFO - ========== 系统信息 ==========
+2025-01-07 16:39:08,378 - INFO - 当前工作目录：D:\Project
+2025-01-07 16:39:08,379 - INFO - Python路径：C:\Programs\Python\Python312\python.exe
+2025-01-07 16:39:08,379 - INFO - Python版本：3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]
+2025-01-07 16:39:08,379 - INFO - 环境变量PATH：C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Programs\Python\Python312\Scripts\;C:\Programs\Python\Python312\;D:\Python\Python313\Scripts\;D:\Python\Python313\;C:\Users\id220\AppData\Local\Programs\Python\Launcher\;C:\Users\id220\AppData\Local\Microsoft\WindowsApps;C:\Programs\Microsoft VS Code\bin
+2025-01-07 16:39:08,379 - INFO - gm模块安装路径：C:\Programs\Python\Python312\Lib
+2025-01-07 16:39:08,380 - INFO - 当前用户：id220
+2025-01-07 16:39:08,380 - INFO - 文件权限：666
+2025-01-07 16:39:08,380 - INFO - =============================
+2025-01-07 16:39:08,549 - INFO - gm.api模块导入成功
+2025-01-07 16:39:08,549 - INFO - token设置成功
+2025-01-07 16:39:08,550 - INFO - 立即执行任务...
+2025-01-07 16:39:08,550 - INFO - 开始获取涨停股票数据...
+2025-01-07 16:39:08,550 - INFO - gm.api模块导入成功
+2025-01-07 16:39:08,550 - INFO - token设置成功
+2025-01-07 16:39:08,551 - INFO - 测试API连接...
+2025-01-07 16:39:08,551 - INFO - 开始测试API连接...
+2025-01-07 16:39:08,745 - INFO - API连接测试成功
+2025-01-07 16:39:08,745 - INFO - API连接正常，开始获取数据...
+2025-01-07 16:39:08,745 - INFO - 开始测试API连接...
+2025-01-07 16:39:08,747 - INFO - API连接测试成功
+2025-01-07 16:39:08,747 - INFO - 开始获取股票基本信息...
+2025-01-07 16:39:09,124 - INFO - 成功获取200只股票基本信息
+2025-01-07 16:39:09,124 - INFO - 当前日期：2025-01-07
+2025-01-07 16:39:09,124 - INFO - 开始获取个股行情数据...
+2025-01-07 16:39:09,769 - WARNING - 无法获取SHSE.600002的前一日收盘价
+2025-01-07 16:39:12,042 - WARNING - 无法获取SHSE.600001的前一日收盘价
+2025-01-07 16:39:17,845 - INFO - 发现涨停股票：SHSE.600707 8.43 >= 8.43
+2025-01-07 16:39:20,492 - WARNING - 无法获取SHSE.600631的前一日收盘价
+2025-01-07 16:39:22,377 - WARNING - 无法获取SHSE.600263的前一日收盘价
+2025-01-07 16:39:22,555 - WARNING - 无法获取SHSE.600102的前一日收盘价
+2025-01-07 16:39:26,262 - WARNING - 无法获取SHSE.600005的前一日收盘价
+2025-01-07 16:39:26,363 - WARNING - 无法获取SHSE.600836的前一日收盘价
+2025-01-07 16:39:26,647 - WARNING - 无法获取SHSE.600840的前一日收盘价
+2025-01-07 16:39:27,204 - INFO - 成功获取1只股票的行情数据
+2025-01-07 16:39:27,205 - WARNING - 股票信息缺少name列，使用默认名称
+2025-01-07 16:39:27,211 - INFO - 成功保存1只涨停股票数据

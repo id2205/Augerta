@@ -1,0 +1,7 @@
+{
+    "data_path": "D:/量化掘金/data/storage.dat",
+    "base_data_path": "D:/量化掘金/base_data/trade_calendar.dat",
+    "basic_data_path": "D:/量化掘金/basic_data",
+    "host": "localhost",
+    "port": 8000
+}

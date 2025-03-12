@@ -1,0 +1,8 @@
+{
+    "database_uri": "sqlite:///stock_data.db",
+    "data_directory": "data",
+    "log_directory": "logs",
+    "stock_info_file": "data/stock_info.csv",
+    "daily_data_file": "data/daily_data.csv",
+    "minute_data_file": "data/minute_data.csv"
+}

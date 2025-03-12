@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stock Data Analysis</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+            cursor: pointer;
+        }
+        th:hover {
+            background-color: #ddd;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        h2 {
+            margin: 30px 0 15px 0;
+            color: #333;
+        }
+        .loading {
+            display: none;
+            color: #666;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Stock Data Analysis</h1>
+
+    <h2>Stock List</h2>
+    <div class="loading" id="stocks-loading">Loading stocks...</div>
+    <table id="stocks-table">
+        <thead>
+            <tr>
+                <th data-sort="symbol">Symbol</th>
+                <th data-sort="name">Name</th>
+                <th data-sort="exchange">Exchange</th>
+                <th data-sort="industry">Industry</th>
+                <th data-sort="listing_date">Listing Date</th>
+            </tr>
+        </thead>
+        <tbody id="stocks-body">
+        </tbody>
+    </table>
+
+    <h2>Daily Market Data</h2>
+    <div class="loading" id="daily-loading">Loading daily data...</div>
+    <table id="daily-table">
+        <thead>
+            <tr>
+                <th data-sort="date">Date</th>
+                <th data-sort="symbol">Symbol</th>
+                <th data-sort="open">Open</th>
+                <th data-sort="high">High</th>
+                <th data-sort="low">Low</th>
+                <th data-sort="close">Close</th>
+                <th data-sort="volume">Volume</th>
+            </tr>
+        </thead>
+        <tbody id="daily-body">
+        </tbody>
+    </table>
+
+    <script>
+        // Fetch and display stock data
+        async function loadStocks() {
+            document.getElementById('stocks-loading').style.display = 'block';
+            try {
+                const response = await fetch('/api/stocks');
+                const stocks = await response.json();
+                
+                const tbody = document.getElementById('stocks-body');
+                tbody.innerHTML = stocks.map(stock => `
+                    <tr>
+                        <td>${stock.symbol}</td>
+                        <td>${stock.name}</td>
+                        <td>${stock.exchange}</td>
+                        <td>${stock.industry}</td>
+                        <td>${stock.listing_date}</td>
+                    </tr>
+                `).join('');
+            } catch (error) {
+                console.error('Error loading stocks:', error);
+            } finally {
+                document.getElementById('stocks-loading').style.display = 'none';
+            }
+        }
+
+        // Fetch and display daily data
+        async function loadDailyData() {
+            document.getElementById('daily-loading').style.display = 'block';
+            try {
+                const response = await fetch('/api/daily-data');
+                const dailyData = await response.json();
+                
+                const tbody = document.getElementById('daily-body');
+                tbody.innerHTML = dailyData.map(data => `
+                    <tr>
+                        <td>${data.date}</td>
+                        <td>${data.symbol}</td>
+                        <td>${data.open}</td>
+                        <td>${data.high}</td>
+                        <td>${data.low}</td>
+                        <td>${data.close}</td>
+                        <td>${data.volume}</td>
+                    </tr>
+                `).join('');
+            } catch (error) {
+                console.error('Error loading daily data:', error);
+            } finally {
+                document.getElementById('daily-loading').style.display = 'none';
+            }
+        }
+
+        // Add sorting functionality
+        function addSorting() {
+            const tables = document.querySelectorAll('table');
+            tables.forEach(table => {
+                const headers = table.querySelectorAll('th[data-sort]');
+                headers.forEach(header => {
+                    header.addEventListener('click', () => {
+                        const sortKey = header.getAttribute('data-sort');
+                        const tbody = table.querySelector('tbody');
+                        const rows = Array.from(tbody.querySelectorAll('tr'));
+                        
+                        rows.sort((a, b) => {
+                            const aValue = a.querySelector(`td:nth-child(${header.cellIndex + 1})`).textContent;
+                            const bValue = b.querySelector(`td:nth-child(${header.cellIndex + 1})`).textContent;
+                            return aValue.localeCompare(bValue, undefined, {numeric: true});
+                        });
+
+                        // Clear and re-append sorted rows
+                        tbody.innerHTML = '';
+                        rows.forEach(row => tbody.appendChild(row));
+                    });
+                });
+            });
+        }
+
+        // Initialize page
+        document.addEventListener('DOMContentLoaded', () => {
+            loadStocks();
+            loadDailyData();
+            addSorting();
+        });
+    </script>
+</body>
+</html>

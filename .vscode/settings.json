@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "stock_data_system"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
